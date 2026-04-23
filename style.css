@@ -310,7 +310,7 @@ body {
   justify-content: space-between;
   align-items: stretch;
   min-height: calc(100vh - 56px);
-  padding: 116px 0 40px 0;
+  padding: 190px 0 40px 0;
 }
 
 #hero-text {
@@ -444,8 +444,8 @@ body {
 .about__content {
   position: relative;
   z-index: 2;
-  width: 50%;
-  padding-top: 100px;
+  width: 40%;
+  padding-top: 230px;
 }
 
 .about__heading {
